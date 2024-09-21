@@ -1,0 +1,32 @@
+Hướng dẫn sử dụng một số phím tắt hay sử dụng trong Microsoft Word
+Ctrl+E: Canh giữa đoạn văn bản
+Ctrl+L: Canh trái đoạn văn bản
+Ctrl+R: Canh phải đoạn văn bản
+Ctrl+N: Tạo mới văn bản Word
+Ctrl+J: Canh đều 2 biên đoạn văn bản
+Ctrl+B: In đậm nội dung đoạn văn bản
+Ctrl+I: In nghiêng nội dung đoạn văn bản
+Ctrl+U: Gạch dưới nội dung đoạn văn bản
+
+Chèn ký tự đặc biệt 
+Để chèn các ký hiệu, mẫu tự Hy Lạp, ký hiệu toán học,… mà ta không có trên bàn phím ta làm các bước sau:
+Đặt con trỏ chuột vào vị trí muốn chèn ký tự đặt biệt. 
+Vào menu Insert/Symbol…, hộp thoại Symbol xuất hiện: 
+Làm theo hướng dẫn bên cạnh
+
+Các bước cơ bản để chèn ký tự đặc biệt trong word
+
+Phiên bản, Năm phát hành, Hệ điều hành
+2003, 2002, Windows NT
+2007, 2006, Windows Vista
+2010, 2010, Windows Vista
+2013, 2012, Windows 7	
+
+Muốn biết năm phát hành MS Office (xem Table 1), để chèn ký tự đặc biệt (xem Figure 1).
+
+Windows
+MacOS
+Linux
+Others
+
+Là hệ thống 24 ký tự được dùng để viết tiếng Hy Lạp từ cuối thế kỷ IX trước Công nguyên hoặc đầu thế kỷ VII trước Công nguyên.
